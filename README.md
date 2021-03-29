@@ -1,3 +1,3 @@
 # Digit-Recognizer
 __This is my first time to use pytorch frame to create a convolution neural netwark to recognize object!__  
-__ Public score: 0.97764.__
+__Public score: 0.97764.__
